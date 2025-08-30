@@ -15,3 +15,6 @@ https://github.com/TracyWang95/legal-prompts-for-gpt
 
 基于Bad Cases的Dify合同审查案例演示（工作流拆解）
 https://zhuanlan.zhihu.com/p/1907588515618853000
+
+法律人必备的DeepSeek法律实务指令（2025年合规版）
+https://zhuanlan.zhihu.com/p/22588251815
