@@ -28,5 +28,8 @@ https://zhuanlan.zhihu.com/p/31784204407
 实践06: Dify实现DeepSeek合同合规审核
 https://blog.csdn.net/jackalvin/article/details/148705318
 
+法律文书生成：严谨性Prompt设计规范
+https://bbs.itying.com/topic/67c7dfc736bb8501316ffd96
+
 
 
